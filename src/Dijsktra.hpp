@@ -1,5 +1,5 @@
-#ifndef BFS_HPP
-#define BFS_HPP
+#ifndef DIJSKTRA_HPP
+#define DIJSKTRA_HPP
 
 #include<stdio.h>
 #include<stdlib.h>

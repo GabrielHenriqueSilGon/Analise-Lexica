@@ -1,4 +1,4 @@
-#include "bfs.hpp"
+#include "Dijsktra.hpp"
 
 int
 main ()
